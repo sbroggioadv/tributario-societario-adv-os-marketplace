@@ -2,6 +2,8 @@
   "name": "tributario-societario-adv-os",
   "version": "0.1.0",
   "description": "Plugin Claude Code para advocacia empresarial brasileira — tributário e societário. Atende consultivo (constituição, holdings 1/2/3 células, offshore, trust, planejamento tributário e sucessório, M&A, reorganizações) e contencioso (CARF, TIT, execução fiscal, mandado de segurança, recursos). Validação de legislação vigente como premissa (lei é alvo móvel — reforma tributária 2026-2033). 33 skills Tier 0-6, 6 Protocolos Técnicos, 22 Proibições Absolutas, Suprema Corte R1-R4. Onboarding via /start-tributario-societario. 100% configurável ao perfil do escritório em runtime.",
-  "author": { "name": "IA Combativa Adv-OS" },
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
   "license": "MIT"
 }
