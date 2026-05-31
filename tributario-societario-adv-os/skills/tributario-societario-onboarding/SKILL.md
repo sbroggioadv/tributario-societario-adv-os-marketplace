@@ -4,6 +4,8 @@ description: >
   Wizard de configuracao inicial do plugin no ambiente do escritorio. Coleta identidade do operador (nome, OAB, UF, escritorio, cidade), areas de atuacao, tom de voz e modo de fluxo, e grava a persona local. Aciona: configurar plugin, primeira vez, /start-tributario-societario, onboarding, instalar.
 ---
 
+> **🖱️ Escolhas = botoes:** em campos de **lista fechada** (AREA_FOCO, tom, modo, atualizar/recriar, sim/nao) use a ferramenta **AskUserQuestion** para mostrar **botoes clicaveis** (max. 4 por pergunta; se houver mais, divida em 2). **Texto livre** (nome, OAB, cidade, e-mail) segue como pergunta digitada normal.
+
 # TRIBUTARIO-SOCIETARIO ONBOARDING
 
 > Wizard de configuracao inicial **Tier 0**. Travado em TRIBUTARIO-SOCIETARIO. Linguagem acolhedora, tom didatico. Conduz o operador a configurar o plugin ao perfil do escritorio.
