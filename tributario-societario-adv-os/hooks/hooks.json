@@ -1,14 +1,16 @@
 {
-  "SessionStart": [
-    {
-      "matcher": "",
-      "hooks": [
-        {
-          "type": "command",
-          "command": "echo '[tributario-societario-adv-os] Plugin tributario e societario ativo. Rode /start-tributario-societario para configurar.'",
-          "timeout": 5
-        }
-      ]
-    }
-  ]
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '[tributario-societario-adv-os] Plugin tributario e societario ativo. Rode /start-tributario-societario para configurar.'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
 }
