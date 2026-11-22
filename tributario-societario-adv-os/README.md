@@ -65,4 +65,4 @@ Após instalação, rode `/start-tributario-societario` em qualquer sessão para
 
 ## Licença
 
-MIT — ver `LICENSE`.
+Uso licenciado mediante aquisição — ver [`LICENSE`](./LICENSE). As cópias obtidas até 11/08/2026 permanecem sob MIT; a partir dessa data o código é proprietário.

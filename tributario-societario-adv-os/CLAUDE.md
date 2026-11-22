@@ -81,7 +81,7 @@ Plugin empresarial especializado **mode-aware** (33 skills, Tier 0-6, consultivo
 
 1. **Skill folder = so `SKILL.md`.** Material auxiliar vai em `templates/` ou `scripts/data/`.
 2. **Limites Cowork:** `SKILL.md` <= 11264 bytes; `description` do frontmatter <= 1024 chars. Validar com `scripts/check-skill-descriptions.py`.
-3. **plugin.json minimal:** `name`, `version`, `description`, `author`, `license`.
+3. **plugin.json minimal:** `name`, `version`, `description`, `author`.
 4. **Tokens `{{...}}`** permanecem LITERAIS no disco — LLM resolve em runtime via persona.
 5. **Privacidade LGPD:** pasta `<cwd>/tributario-societario/` (e `casos/`) gitignored por default; warning se pasta sincronizada. Compartimentacao por caso e PA-22.
 6. **Portabilidade:** scripts Python 3.11+; `${CLAUDE_PLUGIN_ROOT}` em todos os hooks; `${TRIBSOC_PERSONA}` resolvido por fallback chain.

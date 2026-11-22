@@ -21,7 +21,7 @@ Mesmo sem configuracao, o plugin opera sob a Hierarquia das 4 Camadas:
 3. **Camada 3 — Identidade tecnica e estilo** — FIRAC + estrutura da peca/parecer empresarial + tom tecnicos-combativo calibrado pelo modo (consultivo/contencioso).
 4. **Camada 4 — Skills modulares** — 33 skills empresariais em Tier 0-6.
 
-Detalhamento integral em `.planning/` (no plugin Claude Code, nao no Cowork).
+Detalhamento na skill `tributario-societario-master`.
 
 ---
 
